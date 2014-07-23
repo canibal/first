@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "0.0.0",
+  "description": "First-timer trying something for the first-time",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "c fong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.6.1",
+    "logfmt": "^1.1.2"
+  }
+}
