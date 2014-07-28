@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.6.1",
-    "logfmt": "^1.1.2"
+    "logfmt": "^1.1.2",
+    "socket.io": "^1.0.6"
   }
 }
