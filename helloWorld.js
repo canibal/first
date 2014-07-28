@@ -1,6 +1,7 @@
 // web.js
 var express = require("express");
 var logfmt = require("logfmt");
+var fs = require("fs")
 var app = express();
 
 app.use(logfmt.requestLogger());
